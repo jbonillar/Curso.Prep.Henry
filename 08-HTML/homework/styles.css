@@ -1,0 +1,27 @@
+h1{color: red; }
+body {
+    text-align: center;
+    background-color: #ffdd90;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Twemoji2_1f600.svg/1200px-Twemoji2_1f600.svg.png");
+  }
+img{
+    width: 400px;
+}
+#thirdDiv{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background: rgb(46, 199, 115) ;
+    border-color: solid red 10px;
+    padding: 50px;
+    height: 600px;  
+    max-width: 500px;
+    margin: 20 auto;
+
+
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+
+}
